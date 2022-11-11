@@ -5,7 +5,7 @@ from math import log
 from math import sin
 from math import cos
 
-print("karekok icin=k,log icin log ,faktoriyel icin !,sin icin =sin,cos icin=cos yaziniz")
+print("karekok icin=k,log icin log ,faktoriyel icin !,sin icin =sin,cos icin=cos toplama için= +,cıkarma için= -,çarpma için= *,bolme için /,üs almak için= **,mod için= % yaziniz")
 faktoriyel=1
 print("islem giriniz")
 islem=input()
