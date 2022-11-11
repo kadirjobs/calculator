@@ -62,3 +62,5 @@ elif islem=="log":
 
 else:
     print("gecersiz islem girdiniz..!")
+
+time.sleep(10)
